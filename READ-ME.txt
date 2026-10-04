@@ -1,0 +1,15 @@
+JUST FOR YOU - PHOTO FIX
+
+All 9 photos, the full song, styles and interactions are embedded in index.html.
+No assets folder is needed for this version.
+
+1. Extract this ZIP.
+2. Replace index.html in the root of your existing website repository.
+3. Upload vercel.json next to index.html.
+4. Commit the changes and redeploy the same Vercel project.
+
+Use Other for the framework preset, the directory containing index.html as the root directory, and leave the build command empty.
+The included vercel.json sets the output directory to the project root.
+
+Open index.html in a web browser to preview. Click Show me to begin the photo story and music.
+Your final smile reaction is local; it does not send a message.
